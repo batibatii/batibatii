@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi 👋, Batikan here! I began my journey into Frontend Development in January 2025.
+Hi 👋, Batikan here! 
 I love writing code and embrace continuous learning—each day is a new opportunity to grow.
 Currently, I’m on an exciting JavaScript adventure!<br><br>
 
