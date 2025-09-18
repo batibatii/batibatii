@@ -11,7 +11,7 @@ Currently, I’m on an exciting React adventure!<br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,git)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=batibatii&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=batibatii&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=batibatii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
