@@ -13,5 +13,5 @@ Currently, I’m on an exciting React adventure!<br><br>
 ## 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=batibatii&theme=dark&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={batibatii}&theme={nord_dark})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batibatii)](https://github.com/batibatii/github-readme-stats)
 
