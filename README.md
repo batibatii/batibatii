@@ -13,6 +13,6 @@ I love writing code and embrace continuous learning. Each day is a new opportuni
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=batibatii)<br/>
+[!](https://streak-stats.demolab.com/?user=DenverCoder1)<br/>
 
 
