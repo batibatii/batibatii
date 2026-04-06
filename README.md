@@ -1,7 +1,6 @@
 ## 💫 About Me:
 Hi 👋, Batikan here! 
 I love writing code and embrace continuous learning—each day is a new opportunity to grow.
-Currently, I’m on an exciting Express.js adventure!<br><br>
 
 
 
