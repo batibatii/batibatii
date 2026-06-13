@@ -1,6 +1,6 @@
 ## 💫 About Me:
 Hi 👋, Batikan here! 
-I love writing code and embrace continuous learning. Each day is a new opportunity to grow. I’m currently exploring AI Engineering and AI Agent Systems.
+I love writing code and embrace continuous learning. Each day is a new opportunity to grow. I’m currently exploring AI Product Engineering and AI Agent Systems.
 
 
 
